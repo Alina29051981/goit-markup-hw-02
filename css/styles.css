@@ -58,10 +58,15 @@ a {
     font-size: 56px;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
        color: #fff;
 }
 .title-button {
-                    background-color: #4d5ae5;
+            font-weight: 500;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            cursor: pointer;
+    background-color: #4d5ae5;
                 color: #fff;
  }    
 
@@ -73,10 +78,16 @@ a {
     font-size: 36px;
         line-height: 1.11;
         letter-spacing: 0.02em;
+        text-align: center;
+        text-transform: capitalize;
         color: #2e2f42;
 }
 .subtitle-link {
     visibility: hidden;
+}
+
+.gallery-list{
+    background-color: #FFFFFF
  }
 
 .subject,.subject-user,.gallery-subject{
@@ -91,15 +102,22 @@ a {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        color: #2e2f42;
+        color:#434455;
     }
 
-        .logo-text {
-color: #f4f4fd;
+.gallery{
+        background-color: #F4F4FD
+        }
+.logo-text {
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #f4f4fd;
 }
 footer{
-                  background-color: #2e2f42;
+    background-color: #2e2f42;
         }
+
 .footer-logo .logo-part {
     color: #f4f4fd;
     }
