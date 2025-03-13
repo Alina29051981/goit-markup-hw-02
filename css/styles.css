@@ -51,10 +51,7 @@ a {
            }
  
 .title{
-     width: 1440px;
-    height: 600px;
-    box-shadow: 0 4px 4px 0;
-    background-color: #2e2f42;
+       background-color: #2e2f42;
 }
 
 .title-text{
@@ -64,10 +61,7 @@ a {
        color: #fff;
 }
 .title-button {
-        border-radius: 4px;
-        padding: 16px 32px;
-        box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-            background: #4d5ae5;
+                    background-color: #4d5ae5;
                 color: #fff;
  }    
 
@@ -104,9 +98,7 @@ a {
 color: #f4f4fd;
 }
 footer{
-        width: 1440px;
-            height: 312px;
-            background-color: #2e2f42;
+                  background-color: #2e2f42;
         }
 .footer-logo .logo-part {
     color: #f4f4fd;
